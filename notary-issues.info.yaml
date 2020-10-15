@@ -1,7 +1,10 @@
 poc:
-- shane.siebken@digitalglobe.com
-- sam.lewis@digitalglobe.com
-- adam.chou@maxar.com
+- name: Adam Chou
+  email: adam.chou@maxar.com
+- name: Shane Siebken
+  email: shane.siebken@digitalglobe.com
+- name: Sam Lewis
+  email: sam.lewis@digitalglobe.com
 
 data_classification:
 - public
